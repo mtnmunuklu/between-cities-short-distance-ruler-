@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1489353265 source:c:\users\sylar\desktop\prolab2 proje1\dijikstradeneme\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<set>
+
+1489682680 source:c:\users\sylar\desktop\prolab2 proje1\dijikstraasil\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<set>
+
+1490090574 source:c:\users\sylar\desktop\prolan2proje1\prolab2proje1kod\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
